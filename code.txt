@@ -6,3 +6,9 @@ Select fuel grade
 insert gas nozzle into car tank
 WHILE gas is NOT full OR price limit is NOT reached
 	Engage nozzle
+UNTIL gas tank is full OR price limit is reached
+	Release nozzle
+Place nozzle back
+Close gas cap
+Enter car
+
